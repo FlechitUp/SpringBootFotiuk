@@ -2,7 +2,10 @@
 Web app for photographers.
 
 View:
+
 ![](imgreadme/img1view.gif)
+![alt text](https://github.com/FlechitUp/SpringBootFotiuk/blob/master/imgreadme/img1view.gifG)
+
 
 ###Requirements
     -Maven
@@ -11,6 +14,11 @@ View:
 	-JDK 1.8
 
 ###Commands
+Create a file
+> mkdir Bupho
+
+Clone repository
+
 Building an executable JAR with Maven
 > ./mvn clean package
 
