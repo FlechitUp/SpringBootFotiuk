@@ -6,17 +6,17 @@ View:
 ![](imgreadme/img1view.gif)
 
 
-###Requirements
+### Requirements
 
     -Maven
     
     -Sprin Boot
 	
-	-STS 4
+	- STS 4
 	
-	-JDK 1.8
+	- JDK 1.8
 
-###Commands
+### Commands
 
 Create a file
 
@@ -32,7 +32,7 @@ or
 
 > ./mvn package
 
-###Links
+### Links
 
 localhost:8080/   -->  Initial page
 
