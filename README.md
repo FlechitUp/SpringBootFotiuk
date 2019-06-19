@@ -8,9 +8,9 @@ View:
 
 ### Requirements
 
-    -Maven
+    - Maven
     
-    -Sprin Boot
+    - Sprin Boot
 	
 	- STS 4
 	
@@ -21,6 +21,8 @@ View:
 Create a file
 
 > mkdir Bupho
+
+> cd Bupho
 
 Clone repository
 
@@ -38,3 +40,6 @@ localhost:8080/   -->  Initial page
 
 localhost:8080/users/{id} --> Info of photographer with id = 2 , and photos
  
+localhost:8080/login  --> Just log in
+
+localhost:8080/register  --> Register
